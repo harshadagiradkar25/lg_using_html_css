@@ -1,0 +1,43 @@
+#div{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+#div1{
+    color: blue;
+   
+
+}
+.firstclass{
+    width: 700px;
+    height: 40px;
+    border: none;
+    font-weight: bolder;
+}
+.secondclass{
+    width: 350px;
+    height: 20px;
+    border: none;
+    font-weight: bolder;
+}
+.thirdclass{
+    font-weight: bolder;
+    border: none;
+}
+#div2{
+    color: blue;
+}
+#div3{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+    padding-block: 2px;
+}
+#f4{
+    color: white;
+    background-color: blue;
+    width: 170px;
+    height: 40px;
+}
